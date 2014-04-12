@@ -19,7 +19,10 @@
 /home/halo/Desktop/Chandresh/Cordova/hello/platforms/android/assets/www/css \
 /home/halo/Desktop/Chandresh/Cordova/hello/platforms/android/assets/www/js \
 /home/halo/Desktop/Chandresh/Cordova/hello/platforms/android/assets/www/img \
-/home/halo/Desktop/Chandresh/Cordova/hello/platforms/android/assets/www/css/index.css \
+/home/halo/Desktop/Chandresh/Cordova/hello/platforms/android/assets/www/css/bootstrap-theme.min.css \
+/home/halo/Desktop/Chandresh/Cordova/hello/platforms/android/assets/www/css/bootstrap.css.map \
+/home/halo/Desktop/Chandresh/Cordova/hello/platforms/android/assets/www/css/bootstrap-theme.css.map \
+/home/halo/Desktop/Chandresh/Cordova/hello/platforms/android/assets/www/css/bootstrap.min.css \
 /home/halo/Desktop/Chandresh/Cordova/hello/platforms/android/assets/www/js/index.js \
 /home/halo/Desktop/Chandresh/Cordova/hello/platforms/android/assets/www/img/logo.png \
 /home/halo/Desktop/Chandresh/Cordova/hello/platforms/android/ant-build/AndroidManifest.xml \
